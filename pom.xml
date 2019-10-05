@@ -6,6 +6,7 @@
     <name>address-manager - Root</name>
     <description>address-manager - Root</description>
 
+    
     <groupId>com.sap.cloud.s4hana.examples</groupId>
     <artifactId>address-manager</artifactId>
     <version>1.0</version>
